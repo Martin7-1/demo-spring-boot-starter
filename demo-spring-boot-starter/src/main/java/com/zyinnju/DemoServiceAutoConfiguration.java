@@ -12,7 +12,7 @@ import org.springframework.context.annotation.Bean;
  *
  * <p>使用 demo.enabled 来开启该配置</p>
  *
- * @author zhengyi 32
+ * @author Martin7-1
  */
 @AutoConfiguration
 @ConditionalOnProperty(value = "demo.enabled")
